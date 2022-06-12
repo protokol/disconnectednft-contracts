@@ -1,0 +1,11 @@
+{
+  "name": "NFT Name",
+  "description": "Description of the nft",
+  "animation_url": "https://test-video-99.s3.eu-central-1.amazonaws.com/62_DytfPrV9.mp4",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Charity"
+    }
+  ]
+}
