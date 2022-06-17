@@ -40,3 +40,16 @@ hh deploy \
 --token 1 \
 --network matic
 ```
+
+#### Verify
+
+```shell
+hh verify 0x048275cCAb57e0Fa95E76A70e9cd8dBB6381Babd \
+Disconnected \
+DIS \
+https://raw.githubusercontent.com/protokol/disconnectednft-contracts/master/metadata/contract.json \
+https://raw.githubusercontent.com/protokol/disconnectednft-contracts/master/metadata/nft.json \
+0xecF9CA2F9236981D5669876A9d79712bb0852907 \
+1 \
+--network matic
+```
